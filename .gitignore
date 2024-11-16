@@ -36,6 +36,7 @@ Thumbs.db
 *.settings
 *.directory
 .gradle/
+.vscode/
 
 # File locks
 *.ulock
